@@ -1,0 +1,30 @@
+
+==========================Scores========================================
+ # of classes:    4
+ Accuracy:        0,9556
+ Precision:       0,9564
+ Recall:          0,9560
+ F1 Score:        0,9560
+Precision, recall & F1: macro-averaged (equally weighted avg. of 4 classes)
+========================================================================
+o.d.e.c.Best_model_for_now - Evaluate model....
+o.d.e.c.Best_model_for_now - 
+Examples labeled as baba classified by model as baba: 2 times
+Examples labeled as baba classified by model as kitty: 1 times
+Examples labeled as deer classified by model as deer: 2 times
+Examples labeled as fish classified by model as fish: 3 times
+Examples labeled as kitty classified by model as kitty: 2 times
+
+
+==========================Scores========================================
+ # of classes:    4
+ Accuracy:        0,9000
+ Precision:       0,9167
+ Recall:          0,9167
+ F1 Score:        0,9000
+Precision, recall & F1: macro-averaged (equally weighted avg. of 4 classes)
+========================================================================
+
+For a single example that is labeled fish the model predicted fish
+
+o.d.e.c.Best_model_for_now - ****************Example finished********************
